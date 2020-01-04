@@ -3,3 +3,4 @@ Tujuan / Harapan pada tahun 2020
 - Dapat menguasai React ataupun React Native
 - Dapat menguasai Heroku
 - Setiap pembuatan project maka juga menggunakan GitHub
+- Menyelesaikan KP pada semester 6
