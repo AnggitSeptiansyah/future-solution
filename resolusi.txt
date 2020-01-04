@@ -1,6 +1,8 @@
 Tujuan / Harapan pada tahun 2020
+- Menguasai Django seutuhnya
 - Dapat menguasai javascript dan ajax
 - Dapat menguasai React ataupun React Native
+- Dapat menguasai Django Rest Framework + React Native
 - Dapat menguasai Heroku
 - Setiap pembuatan project maka juga menggunakan GitHub
 - Menyelesaikan KP pada semester 6
