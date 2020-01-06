@@ -1,6 +1,0 @@
-Rencana Semester 6
-
-- Dapat menyelesaikan KP
-- Dapat membuat 2 project dengan menggunakan Heroku
-- Mengganti Os menjadi Linux
-- Mempelajari Linux server deployment
