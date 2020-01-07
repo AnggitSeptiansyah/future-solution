@@ -1,7 +1,9 @@
 Rencana Semester 6
 
 - Dapat menyelesaikan KP
-- Dapat membuat 2 project dengan menggunakan Heroku
+- Dapat membuat 3 project dengan menggunakan Heroku
   * E-commerce
+  * Todo List
+  * Weather App
 - Mengganti Os menjadi Linux
 - Mempelajari Linux server deployment
